@@ -1,0 +1,1 @@
+The file customApi.py contains the solution to the day 3, task 3 on the trello board. Ignore the files with an ignore message on the  commit since they  only present stuff that I was working on as part of an exercise.
